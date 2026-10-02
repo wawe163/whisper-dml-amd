@@ -1,0 +1,17 @@
+# 模型文件（大文件，用 download_model.py 下载）
+models/
+
+# Python
+__pycache__/
+*.pyc
+dml_env/
+venv/
+
+# 中间产物
+*.wav
+*.srt
+*.txt
+
+# 系统
+.DS_Store
+Thumbs.db
